@@ -1,19 +1,15 @@
 const BADGES = [
   {
-    name: "HypeSquad Bravery", // Message that will appear when hovering over the badge
-    image: "assets/badges/hypesquad_bravery.svg",
-  },
-  {
-    name: "Subscriber since Jun 29, 2022",
+    name: "Subscriber since Apr 3, 2023",
     image: "assets/badges/nitro.svg",
   },
   {
-    name: "Server boosting Jun 29, 2022",
-    image: "assets/badges/boost.svg",
+    name: "Server boosting Apr 3, 2023",
+    image: "assets/badges/boost3month.svg",
   },
-  {
-    name: "That's an example! Change in config.js", // Message that appears when you hover over it
-    image: "assets/badges/bug_hunter_level2.svg", // Icon (in .svg) of the badge that is in the "assets/badges" you choose
+   {
+    name: "Active Developer",
+    image: "https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png",
   },
 ];
 
